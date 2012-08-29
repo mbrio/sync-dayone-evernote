@@ -13,7 +13,7 @@
   "licenses"      : [{ "type": "MIT", "url": "http://www.opensource.org/licenses/mit-license.php" }],
   "repositories"  : [{ "type": "git", "url": "git://github.com/mbrio/sync-dayone-evernote.git" }],
   "dependencies"  : {
-    "xml2js": ">=0.1.14",
+    "xml2js": ">=0.1.14"
   },
   "homepage"      : "http://github.com/mbrio/sync-dayone-evernote"
 }
